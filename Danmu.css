@@ -1,0 +1,37 @@
+.dm {
+    margin: 20px;
+    text-align: center;
+  }
+  
+  .dm .dm_screen {
+    height: 380px;
+    border: 1px solid rgb(229, 229, 229);
+  }
+  
+  .dm_txt {
+    width: 388px;
+    height: 34px;
+    border-radius: 3px;
+    border: 1px solid rgb(204, 204, 204);
+    padding-left: 10px;
+  }
+  
+  .dm_submit {
+    border: 1px solid rgb(250, 80, 30);
+    color: rgb(250, 80, 30);
+    border-radius: 3px;
+    background-color: white;
+    width: 159px;
+    height: 35px;
+    font-size: 14px;
+  }
+  
+  .dm_delete {
+    border: 1px solid rgb(176, 168, 165);
+    color: rgb(176, 168, 165);
+    border-radius: 3px;
+    background-color: white;
+    width: 159px;
+    height: 35px;
+    font-size: 14px;
+  }
